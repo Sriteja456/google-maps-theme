@@ -21,14 +21,6 @@ grass:
 light green: rgb(78, 217, 72)
 dark green: rgb(68, 139, 32)
 
-## Screenshots and demo
-
-Screenshots of project
-![Map View]()
-
-and
-link to [live demo]()
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
